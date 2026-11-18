@@ -136,7 +136,7 @@ I'm always interested in learning, collaborating and building something meaningf
 
 ---
 
-\<div align="center">
+<div align="center">
 
 **Thanks for stopping by.**
 
