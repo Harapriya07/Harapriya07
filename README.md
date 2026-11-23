@@ -150,13 +150,6 @@ A backend job-processing system using Redis and PostgreSQL, with retries, worker
 <tr>
 <td width="50%" align="center">
 
-**CONTRIBUTION ACTIVITY**
-
-<img src="https://ghchart.rshah.org/9B8CFF/Harapriya07" width="100%" alt="GitHub contribution calendar"/>
-
-</td>
-<td width="50%" align="center">
-
 **TOP LANGUAGES**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harapriya07&layout=compact&theme=transparent&hide_border=true&title_color=59D9B5&text_color=E5E5EF&bg_color=0B0B12" width="100%" alt="Most used programming languages"/>
