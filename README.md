@@ -77,62 +77,72 @@ I'm a B.Tech Computer Science and Information Technology student interested in A
 
 <!-- PROJECTS -->
 
-## 02 / SELECTED BUILDS
+
+<h2>02 / SELECTED BUILDS</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-### FloodLens
+
+<h3>01 / FloodLens</h3>
 
 An AI-powered geospatial project focused on flood intelligence using satellite imagery, remote sensing and computer vision.
 
-`Python` `Deep Learning` `Geospatial AI`
+<img src="https://img.shields.io/github/stars/Harapriya07/FloodLens?style=flat-square&logo=github&label=STARS&color=59D9B5&labelColor=151521"/>
+<img src="https://img.shields.io/github/forks/Harapriya07/FloodLens?style=flat-square&logo=git&label=FORKS&color=9B8CFF&labelColor=151521"/>
 
-[VIEW PROJECT ↗](https://github.com/Harapriya07/FloodLens))
+<code>Python</code> <code>Deep Learning</code> <code>Geospatial AI</code>
+
+<a href="https://github.com/Harapriya07/FloodLens">VIEW PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### Far & Near
+<h3>02 / Far & Near</h3>
 
 A playful private space for long-distance relationships, featuring shared activities, games and bucket lists.
 
 <img src="https://img.shields.io/github/stars/Harapriya07/Far_and_Near?style=flat-square&logo=github&label=STARS&color=59D9B5&labelColor=151521"/>
 <img src="https://img.shields.io/github/forks/Harapriya07/Far_and_Near?style=flat-square&logo=git&label=FORKS&color=9B8CFF&labelColor=151521"/>
 
-`React` `FastAPI` `PostgreSQL`
+<code>React</code> <code>FastAPI</code> <code>PostgreSQL</code>
 
-[VIEW PROJECT ↗](https://github.com/Harapriya07/Far_and_Near)
+<a href="https://github.com/Harapriya07/Far_and_Near">VIEW PROJECT ↗</a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-### Job Queue System
+<h3>03 / Job Queue System</h3>
 
 A backend job-processing system using Redis and PostgreSQL, with retries, worker heartbeats and dead-letter queue handling.
 
 <img src="https://img.shields.io/github/stars/Harapriya07/Job-Queue-System?style=flat-square&logo=github&label=STARS&color=59D9B5&labelColor=151521"/>
 <img src="https://img.shields.io/github/forks/Harapriya07/Job-Queue-System?style=flat-square&logo=git&label=FORKS&color=9B8CFF&labelColor=151521"/>
 
-`Python` `FastAPI` `Redis` `PostgreSQL`
+<code>Python</code> <code>FastAPI</code> <code>Redis</code> <code>PostgreSQL</code>
 
-[VIEW PROJECT ↗](https://github.com/Harapriya07/Job-Queue-System)
-
-### URL Shortener
-
-A backend URL shortening service featuring Base62 encoding, Redis-based rate limiting and persistent PostgreSQL storage.
-
-`Python` `FastAPI` `Redis` `PostgreSQL`
-
-[VIEW PROJECT ↗](https://github.com/Harapriya07/urlShortener))
+<a href="https://github.com/Harapriya07/Job-Queue-System">VIEW PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
+<h3>04 / URL Shortener</h3>
+
+A backend URL shortening service featuring Base62 encoding, Redis-based rate limiting and persistent PostgreSQL storage.
+
+<img src="https://img.shields.io/github/stars/Harapriya07/urlShortener?style=flat-square&logo=github&label=STARS&color=59D9B5&labelColor=151521"/>
+<img src="https://img.shields.io/github/forks/Harapriya07/urlShortener?style=flat-square&logo=git&label=FORKS&color=9B8CFF&labelColor=151521"/>
+
+<code>Python</code> <code>FastAPI</code> <code>Redis</code> <code>PostgreSQL</code>
+
+<a href="https://github.com/Harapriya07/urlShortener">VIEW PROJECT ↗</a>
+
 </td>
 </tr>
 </table>
-
 
 <!-- TECH STACK -->
 
