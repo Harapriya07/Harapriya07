@@ -1,149 +1,201 @@
-# Harapriya Sahoo
+
+<!-- ===================================================== -->
+<!-- HARAPRIYA SAHOO | GITHUB PROFILE -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=rect&color=F5F2ED&height=180&section=header&text=Harapriya%20Sahoo&fontSize=42&fontColor=283449&fontAlignY=45&desc=Software%20Development%20%20%7C%20AI%20Engineering%20%20%7C%20Backend%20Systems&descAlignY=68&descSize=13](https://capsule-render.vercel.app/api?type=rect\&color=F5F2ED\&height=180\&section=header\&text=Harapriya%20Sahoo\&fontSize=42\&fontColor=283449\&fontAlignY=45\&desc=Software%20Development%20%20%7C%20AI%20Engineering%20%20%7C%20Backend%20Systems\&descAlignY=68\&descSize=13)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B12&height=12" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="43%" align="center">
+
+<img src="https://github.com/Harapriya07.png" width="175" style="border-radius:18px;" alt="Harapriya Sahoo"/>
+
+### HARAPRIYA SAHOO
+
+`B.Tech CSIT · Developer`
+
+<img src="https://img.shields.io/badge/BUILDING-4ADE80?style=flat-square&labelColor=151521"/>
+<img src="https://img.shields.io/badge/LEARNING-9B8CFF?style=flat-square&labelColor=151521"/>
+
+</td>
+<td width="57%" valign="middle">
+
+<sub>COLLECTOR'S EDITION · 2026</sub>
+
+# @Harapriya07
+
+**Aspiring AI Engineer & Software Developer**
+
+Building meaningful software through code, curiosity and experimentation.
 
 <br/>
 
-**Computer Science & Information Technology Student**
+<img src="https://img.shields.io/github/followers/Harapriya07?style=flat-square&logo=github&label=FOLLOWERS&color=59D9B5&labelColor=151521"/>
+<img src="https://img.shields.io/github/stars/Harapriya07?style=flat-square&logo=github&label=STARS&color=9B8CFF&labelColor=151521"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20BACKEND-59D9B5?style=flat-square&labelColor=151521"/>
 
-*Building thoughtful software. Exploring intelligent systems. Learning by creating.*
+</td>
+</tr>
+</table>
 
-<br/>
-
-[GitHub](https://github.com/Harapriya07)   ·   [Repositories](https://github.com/Harapriya07?tab=repositories)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9B8CFF&height=2" width="100%"/>
 
 </div>
 
----
+<!-- ABOUT -->
 
-### 01 / ABOUT
+## 01 / COLLECTOR CARD
 
-I'm a Computer Science and Information Technology student at **ITER, SOA**, interested in building software that solves real problems.
+<table width="100%">
+<tr>
+<td width="75%">
 
-My interests lie at the intersection of **Artificial Intelligence, Backend Engineering, and Full-Stack Development**.
+### Harapriya Sahoo
 
-- Exploring AI and intelligent applications.
-- Developing backend systems and REST APIs.
-- Strengthening problem-solving through Data Structures and Algorithms.
-- Building practical projects and learning through implementation.
+I'm a B.Tech Computer Science and Information Technology student interested in AI engineering, backend development and building practical software solutions.
 
-Currently working towards becoming an **AI Engineer**.
+- Currently exploring AI and software engineering.
+- Strengthening Data Structures and Algorithms.
+- Building full-stack and backend projects.
+- Interested in collaborative development and open source.
 
----
+</td>
+<td width="25%" align="center">
 
-### 02 / TECHNOLOGIES
+<img src="https://github.com/Harapriya07.png" width="100" alt="Profile avatar"/>
 
-**Programming Languages**
+<sub>AVAILABLE FOR</sub>
 
-<p> <img src="[https://skillicons.dev/icons?i=python,java,js,c,php](https://skillicons.dev/icons?i=python,java,js,c,php)" /> \</p>
+**Learning · Building · Collaborating**
 
-**Frontend Development**
+</td>
+</tr>
+</table>
 
-<p> <img src="[https://skillicons.dev/icons?i=react,html,css,vite](https://skillicons.dev/icons?i=react,html,css,vite)" /> \</p>
+<!-- PROJECTS -->
 
-**Backend & Databases**
+## 02 / SELECTED BUILDS
 
-<p> <img src="[https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mysql,mongodb,redis](https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mysql,mongodb,redis)" /> </p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Tools & Environment**
+### Far & Near
 
-<p> <img src="[https://skillicons.dev/icons?i=git,github,docker,linux,vscode](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)" /> </p>
+A playful private space for long-distance relationships, featuring shared activities, games and bucket lists.
 
-**Libraries:** Pandas · NumPy · Matplotlib
-
----
-
-### 03 / SELECTED WORK
-
-A selection of projects I've developed while exploring software engineering and backend systems.
-
-<table> <tr> <td width="50%" valign="top">
-
-**01. Far & Near**
-
-A private shared space for long-distance couples and friends, featuring interactive games, shared activities and bucket lists.
+<img src="https://img.shields.io/github/stars/Harapriya07/Far_and_Near?style=flat-square&logo=github&label=STARS&color=59D9B5&labelColor=151521"/>
+<img src="https://img.shields.io/github/forks/Harapriya07/Far_and_Near?style=flat-square&logo=git&label=FORKS&color=9B8CFF&labelColor=151521"/>
 
 `React` `FastAPI` `PostgreSQL`
 
-[Repository ↗](https://github.com/Harapriya07/Far_and_Near) · [Live Demo ↗](https://far-and-near.onrender.com)
+[VIEW PROJECT ↗](https://github.com/Harapriya07/Far_and_Near)
 
-</td> <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-**02. Job Queue System**
+### Job Queue System
 
-A backend task processing system with Redis-based FIFO queues, PostgreSQL persistence, automatic retries, worker heartbeats and a Dead Letter Queue.
+A backend job-processing system using Redis and PostgreSQL, with retries, worker heartbeats and dead-letter queue handling.
+
+<img src="https://img.shields.io/github/stars/Harapriya07/Job-Queue-System?style=flat-square&logo=github&label=STARS&color=59D9B5&labelColor=151521"/>
+<img src="https://img.shields.io/github/forks/Harapriya07/Job-Queue-System?style=flat-square&logo=git&label=FORKS&color=9B8CFF&labelColor=151521"/>
 
 `Python` `FastAPI` `Redis` `PostgreSQL`
 
-[Repository ↗](https://github.com/Harapriya07/Job-Queue-System)
+[VIEW PROJECT ↗](https://github.com/Harapriya07/Job-Queue-System)
 
-</td> </tr> <tr> <td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
-**03. URL Shortener**
+<!-- TECH STACK -->
 
-A URL shortening service built with FastAPI, PostgreSQL and Redis, incorporating Base62 encoding and token-bucket rate limiting.
+## 03 / POWER LEVELS
 
-`Python` `FastAPI` `PostgreSQL` `Redis`
+**LANGUAGES**
 
-[Explore repositories ↗](https://github.com/Harapriya07?tab=repositories)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,php,sql&theme=dark" alt="Programming languages"/>
+</p>
 
-</td> <td width="50%" valign="top">
+**FRAMEWORKS & TOOLS**
 
-**04. More in Progress**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,html,css&theme=dark" alt="Frameworks and tools"/>
+</p>
 
-Continuously experimenting with new technologies, building projects and improving my engineering fundamentals.
+**DATABASES & ENVIRONMENT**
 
-[All repositories ↗](https://github.com/Harapriya07?tab=repositories)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,vscode,linux&theme=dark" alt="Databases and development tools"/>
+</p>
 
-</td> </tr> </table>
+<!-- GITHUB STATS -->
 
----
-
-### 04 / GITHUB ACTIVITY
+## 04 / GITHUB INTELLIGENCE
 
 <div align="center">
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Harapriya07&show_icons=true&hide_border=true&title_color=52678B&icon_color=8495BD&text_color=526078&bg_color=F5F2ED](https://github-readme-stats.vercel.app/api?username=Harapriya07\&show_icons=true\&hide_border=true\&title_color=52678B\&icon_color=8495BD\&text_color=526078\&bg_color=F5F2ED)" />
+<a href="https://gitshine.com/stats/Harapriya07">
+<img src="https://gitshine.com/card/Harapriya07?theme=dark" width="100%" alt="Live GitHub contribution statistics"/>
+</a>
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Harapriya07&layout=compact&hide_border=true&title_color=52678B&text_color=526078&bg_color=F5F2ED](https://github-readme-stats.vercel.app/api/top-langs/?username=Harapriya07\&layout=compact\&hide_border=true\&title_color=52678B\&text_color=526078\&bg_color=F5F2ED)" />
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+**CONTRIBUTION ACTIVITY**
+
+<img src="https://ghchart.rshah.org/9B8CFF/Harapriya07" width="100%" alt="GitHub contribution calendar"/>
+
+</td>
+<td width="50%" align="center">
+
+**TOP LANGUAGES**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harapriya07&layout=compact&theme=transparent&hide_border=true&title_color=59D9B5&text_color=E5E5EF&bg_color=0B0B12" width="100%" alt="Most used programming languages"/>
+
+</td>
+</tr>
+</table>
+
+<!-- CURRENT FOCUS -->
+
+## 05 / CURRENTLY IN PROGRESS
+
+| AREA | FOCUS |
+|:---|:---|
+| Artificial Intelligence | Machine Learning and AI engineering |
+| Backend Engineering | APIs, databases and distributed systems |
+| Problem Solving | Data Structures and Algorithms |
+| Open Source | Collaborative development |
+
+<!-- CONNECT -->
+
+## 06 / CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Harapriya07">
+<img src="https://img.shields.io/badge/GITHUB-151521?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-151521?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
 <br/><br/>
 
-<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Harapriya07&bg_color=F5F2ED&color=52678B&line=8495BD&point=283449&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Harapriya07\&bg_color=F5F2ED\&color=52678B\&line=8495BD\&point=283449\&area=true\&hide_border=true)" />
+<sub>HALF CODE. HALF CURIOSITY. ALWAYS BUILDING.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=59D9B5&height=3" width="100%"/>
+
+<sub>© 2026 HARAPRIYA SAHOO · BUILT WITH CODE & CURIOSITY</sub>
 
 </div>
 
----
-
-### 05 / CURRENT FOCUS
-
-| Area                    | Focus                                   |
-| :---------------------- | :-------------------------------------- |
-| Artificial Intelligence | Exploring AI and ML fundamentals        |
-| Backend Engineering     | APIs, databases and system architecture |
-| Problem Solving         | Data Structures & Algorithms            |
-| Software Development    | Building practical applications         |
-
----
-
-### 06 / BEYOND THE CODE
-
-I believe good engineering comes from curiosity, consistency and the willingness to understand how things work beneath the surface.
-
-I'm always interested in learning, collaborating and building something meaningful.
-
----
-
-<div align="center">
-
-**Thanks for stopping by.**
-
-*Curiosity drives the process. Consistency shapes the outcome.*
-
-<br/>
-
-
-
-</div>
