@@ -184,11 +184,10 @@ A backend job-processing system using Redis and PostgreSQL, with retries, worker
 
 <br/><br/>
 
-<sub>HALF CODE. HALF CURIOSITY. ALWAYS BUILDING.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=59D9B5&height=3" width="100%"/>
 
-<sub>© 2026 HARAPRIYA SAHOO · BUILT WITH CODE & CURIOSITY</sub>
+<sub>© 2026 HARAPRIYA SAHOO</sub>
 
 </div>
 
