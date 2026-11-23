@@ -82,6 +82,16 @@ I'm a B.Tech Computer Science and Information Technology student interested in A
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+### FloodLens
+
+An AI-powered geospatial project focused on flood intelligence using satellite imagery, remote sensing and computer vision.
+
+`Python` `Deep Learning` `Geospatial AI`
+
+[VIEW PROJECT ↗](https://github.com/Harapriya07/FloodLens))
+
+</td>
+<td width="50%" valign="top">
 
 ### Far & Near
 
@@ -107,6 +117,17 @@ A backend job-processing system using Redis and PostgreSQL, with retries, worker
 `Python` `FastAPI` `Redis` `PostgreSQL`
 
 [VIEW PROJECT ↗](https://github.com/Harapriya07/Job-Queue-System)
+
+### URL Shortener
+
+A backend URL shortening service featuring Base62 encoding, Redis-based rate limiting and persistent PostgreSQL storage.
+
+`Python` `FastAPI` `Redis` `PostgreSQL`
+
+[VIEW PROJECT ↗](https://github.com/Harapriya07/urlShortener))
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
