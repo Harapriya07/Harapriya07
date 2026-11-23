@@ -63,15 +63,6 @@ I'm a B.Tech Computer Science and Information Technology student interested in A
 - Interested in collaborative development and open source.
 
 </td>
-<td width="25%" align="center">
-
-<img src="https://github.com/Harapriya07.png" width="100" alt="Profile avatar"/>
-
-<sub>AVAILABLE FOR</sub>
-
-**Learning · Building · Collaborating**
-
-</td>
 </tr>
 </table>
 
