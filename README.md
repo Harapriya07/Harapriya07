@@ -5,25 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B12&height=12" width="100%"/>
 
 <table width="100%">
-<tr>
-<td width="43%" align="center">
 
-<img src="https://github.com/Harapriya07.png" width="175" style="border-radius:18px;" alt="Harapriya Sahoo"/>
-
-### HARAPRIYA SAHOO
-
-`B.Tech CSIT · Developer`
-
-<img src="https://img.shields.io/badge/BUILDING-4ADE80?style=flat-square&labelColor=151521"/>
-<img src="https://img.shields.io/badge/LEARNING-9B8CFF?style=flat-square&labelColor=151521"/>
-
-</td>
 <td width="57%" valign="middle">
-
-<sub>COLLECTOR'S EDITION · 2026</sub>
 
 # @Harapriya07
 
@@ -47,7 +32,6 @@ Building meaningful software through code, curiosity and experimentation.
 
 <!-- ABOUT -->
 
-## 01 / COLLECTOR CARD
 
 <table width="100%">
 <tr>
@@ -69,7 +53,7 @@ I'm a B.Tech Computer Science and Information Technology student interested in A
 <!-- PROJECTS -->
 
 
-<h2>02 / SELECTED BUILDS</h2>
+<h2>Pinned Projects</h2>
 
 <table width="100%">
 <tr>
@@ -137,7 +121,7 @@ A backend URL shortening service featuring Base62 encoding, Redis-based rate lim
 
 <!-- TECH STACK -->
 
-## 03 / POWER LEVELS
+
 
 **LANGUAGES**
 
@@ -158,8 +142,6 @@ A backend URL shortening service featuring Base62 encoding, Redis-based rate lim
 </p>
 
 <!-- GITHUB STATS -->
-
-## 04 / GITHUB INTELLIGENCE
 
 <div align="center">
 
@@ -183,7 +165,7 @@ A backend URL shortening service featuring Base62 encoding, Redis-based rate lim
 
 <!-- CURRENT FOCUS -->
 
-## 05 / CURRENTLY IN PROGRESS
+## CURRENTLY IN PROGRESS
 
 | AREA | FOCUS |
 |:---|:---|
@@ -194,7 +176,7 @@ A backend URL shortening service featuring Base62 encoding, Redis-based rate lim
 
 <!-- CONNECT -->
 
-## 06 / CONNECT
+## CONNECT
 
 <div align="center">
 
@@ -205,11 +187,7 @@ A backend URL shortening service featuring Base62 encoding, Redis-based rate lim
 <img src="https://img.shields.io/badge/LINKEDIN-151521?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<br/><br/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=59D9B5&height=3" width="100%"/>
-
+<br><br>
 <sub>© 2026 HARAPRIYA SAHOO</sub>
 
 </div>
